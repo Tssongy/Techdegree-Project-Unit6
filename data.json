@@ -1,0 +1,97 @@
+{
+    "projects": [
+       {
+         "id": 0,
+         "project_name": "Random Quote Generator" ,
+         "description": "A random quote generator",
+         "technologies": [
+             "JavaScript syntax",
+             "JavaScript variables",
+             "JavaScript loops",
+             "JavaScript conditionals",
+             "JavaScript object literals",
+             "HTML",
+             "CSS"
+         ],
+         "live_link": "d",
+         "github_link": "https://github.com/Tssongy/TechDegree-Project-Unit1.git",
+         "image_urls": [
+             "../static/images/project1_img1.png",
+             "../static/images/project1_img2.png"
+            ]
+       },
+       {
+        "id": 1,
+        "project_name": "List Pagination and Filtering",
+        "description": "List Pagination and Filtering",
+        "technologies": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "live_link": "d",
+        "github_link": "https://github.com/Tssongy/TechDegree-Project-Unit2",
+        "image_urls": [
+            "../static/images/project2_img1.png",
+            "../static/images/project2_img2.png"
+           ]
+       },
+       {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Interactive Form",
+        "technologies": [
+            "JavaScript",
+            "jQuery",
+            "Forms",
+            "HTML",
+            "CSS"
+        ],
+        "live_link": "d",
+        "github_link": "https://github.com/Tssongy/Techdegree-Project-Unit3",
+        "image_urls": [
+            "../static/images/project3_img1.png",
+            "../static/images/project3_img2.png"
+           ]
+       },
+       {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "Phase Hunter Javascript Object Game",
+        "technologies": [
+            "JavaScript",
+            "Object-Oriented Programming",
+            "jQuery",
+            "HTML",
+            "CSS"
+        ],
+        "live_link": "d",
+        "github_link": "https://github.com/Tssongy/Techdegree-Project-Unit4",
+        "image_urls": [
+            "../static/images/project4_img1.png",
+            "../static/images/project4_img2.png",
+            "../static/images/project4_img3.png"
+           ]
+       },
+       {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "Public API Requests - Random user-generator",
+        "technologies": [
+            "JavaScript",
+            "API",
+            "Ajax",
+            "jQuery",
+            "JSON",
+            "HTML",
+            "CSS"
+        ],
+        "live_link": "d",
+        "github_link": "https://github.com/Tssongy/Techdegree-Project-Unit5",
+        "image_urls": [
+            "../static/images/project5_img1.png",
+            "../static/images/project5_img2.png"
+           ]
+       }
+    ]
+}
