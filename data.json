@@ -3,17 +3,13 @@
        {
          "id": 0,
          "project_name": "Random Quote Generator" ,
-         "description": "A random quote generator",
+         "description": "Click the button to see a random quote with a new background color!",
          "technologies": [
              "JavaScript syntax",
-             "JavaScript variables",
-             "JavaScript loops",
-             "JavaScript conditionals",
-             "JavaScript object literals",
              "HTML",
              "CSS"
          ],
-         "live_link": "d",
+         "live_link": "https://tssongy.github.io/TechDegree-Project-Unit1/",
          "github_link": "https://github.com/Tssongy/TechDegree-Project-Unit1.git",
          "image_urls": [
              "../static/images/project1_img1.png",
@@ -23,13 +19,13 @@
        {
         "id": 1,
         "project_name": "List Pagination and Filtering",
-        "description": "List Pagination and Filtering",
+        "description": "Dynamically navigate through pagination and search for students' names",
         "technologies": [
             "JavaScript",
             "HTML",
             "CSS"
         ],
-        "live_link": "d",
+        "live_link": "https://tssongy.github.io/TechDegree-Project-Unit2/",
         "github_link": "https://github.com/Tssongy/TechDegree-Project-Unit2",
         "image_urls": [
             "../static/images/project2_img1.png",
@@ -39,7 +35,7 @@
        {
         "id": 2,
         "project_name": "Interactive Form",
-        "description": "Interactive Form",
+        "description": "Interactive Form with friendly error messages for each field",
         "technologies": [
             "JavaScript",
             "jQuery",
@@ -47,17 +43,18 @@
             "HTML",
             "CSS"
         ],
-        "live_link": "d",
+        "live_link": "https://tssongy.github.io/Techdegree-Project-Unit3/",
         "github_link": "https://github.com/Tssongy/Techdegree-Project-Unit3",
         "image_urls": [
             "../static/images/project3_img1.png",
-            "../static/images/project3_img2.png"
+            "../static/images/project3_img2.png",
+            "../static/images/project3_img3.png"
            ]
        },
        {
         "id": 3,
         "project_name": "OOP Game Show App",
-        "description": "Phase Hunter Javascript Object Game",
+        "description": "Phase Hunter Javascript Object Game, Guess the letter or lose hearts",
         "technologies": [
             "JavaScript",
             "Object-Oriented Programming",
@@ -65,7 +62,7 @@
             "HTML",
             "CSS"
         ],
-        "live_link": "d",
+        "live_link": "https://tssongy.github.io/Techdegree-Project-Unit4/",
         "github_link": "https://github.com/Tssongy/Techdegree-Project-Unit4",
         "image_urls": [
             "../static/images/project4_img1.png",
@@ -86,7 +83,7 @@
             "HTML",
             "CSS"
         ],
-        "live_link": "d",
+        "live_link": "https://tssongy.github.io/Techdegree-Project-Unit5/",
         "github_link": "https://github.com/Tssongy/Techdegree-Project-Unit5",
         "image_urls": [
             "../static/images/project5_img1.png",
